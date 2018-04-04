@@ -2,7 +2,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="eae23811-27fd-499c-b0f6-30dcaa3bba59" name="php.scweb.ca" url="http://php.scweb.ca">
-        <fileTransfer host="php.scweb.ca" port="22" rootFolder="/home/nbellaire227/public_html" accessType="SFTP">
+        <fileTransfer host="php.scweb.ca" port="22" rootFolder="/home/nbellaire227" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
